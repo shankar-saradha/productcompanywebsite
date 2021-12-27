@@ -1,0 +1,155 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family:sans-serif ;
+}
+.container{
+    width: 100%;
+    height: 100%;
+    background: black;
+}
+.menu ul{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;  
+    display: inline-flex;
+    margin: 50px;
+}
+.menu ul li{
+    font-family: sans-serif;
+    list-style: none;
+    margin: 0 20px;
+    color: cadetblue;
+}
+.logo img{
+    width: 100px;
+    margin-top: -7px;
+    margin-right: 50px;
+ 
+}
+.active{
+    color: cornflowerblue !important;
+}
+.banner{
+    width: 80%;
+    height: 60%;
+    top:25%;
+    left: 130px;
+    position: absolute;
+    color: cadetblue;
+    font-family: Arial, Helvetica, sans-serif;
+    background: black;
+}
+.text{
+    width: 50%;
+    float: left;
+}
+.text h1{
+    font-size: 40px;
+    width: 650px;
+    position: relative;
+    margin-left: 40px;
+}
+.text p{
+    width: 650px;
+    font-size: 15px;
+    margin: 30px 0 30px 40px;
+}
+.image{
+    width: 50%;
+    float:right;
+    background: black;
+}
+.image img{
+    width: 100%;
+    margin-top: -20px;
+    padding-left: -50px;
+
+}
+.bottom{
+    width:650px;
+    position: absolute;
+    left: 0%;
+    bottom: -100px;
+    margin-left: 40px;
+}
+.text2{
+    width: 50%;
+    float: left;
+}
+.text2 h1{
+    font-size: 20px;
+    width: 650px;
+    position: relative;
+    margin-left: -40px;
+    margin-top: -70px;
+}
+.product{
+    width: 10%;
+    padding: 30px;
+    float: left;
+
+}
+.productitem{
+    width: 100%;
+    float:right;
+    margin: 0%;
+}
+.productitem img{
+    width:100%;
+    padding:50px;
+    padding-left: 40px;
+}
+.detail{
+    width: 50%;
+    margin:0;
+    padding: 0;
+    text-align: center;
+    float:right;
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    transform: translate(-50%);
+}
+.detail h3{
+    width: 100%;
+    margin-top: -20px;
+    padding-left: -50px;
+    top: 50%;
+    left: 50%;
+}
+.detail2{
+    width: 50%;
+    margin:0;
+    padding: 0;
+    text-align: center;
+    float:right;
+    position: absolute;
+    top: 65%;
+    left: 50%;
+    transform: translate(-50%);
+}
+.detail3{
+    width: 50%;
+    margin:0;
+    padding: 0;
+    text-align: center;
+    float:right;
+    position: absolute;
+    top: 110%;
+    left: 50%;
+    transform: translate(-50%);
+}
+.bottom2{
+    width:650px;
+    position: absolute;
+    left: 0%;
+    bottom: -750px;
+    margin-left: 40px;
+}
+.bottom3{
+    width:650px;
+    position: absolute;
+    left: 0%;
+    bottom: -250px;
+    margin-left: 40px;
+}
