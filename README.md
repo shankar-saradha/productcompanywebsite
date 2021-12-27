@@ -40,7 +40,7 @@ Publish the website in the given URL.
 
 ### Home Page:
 
-![output](./images/homepage.jpg)
+![output](C:\Users\SEKAR\OneDrive\Pictures\Screenshot 2021-12-27 183214)
 
 ## Result:
 
